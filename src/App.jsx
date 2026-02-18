@@ -3,10 +3,10 @@ import About from "./components/About";
 import Courses from "./components/Courses";
 import Advantages from "./components/Advantages";
 import Branches from "./components/Branches";
-import Reviews from "./components/Reviews";
 import ContactForm from "./components/ContactForm";
 import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
+import Results from "./components/Results";
 
 function App() {
   return (
@@ -17,7 +17,7 @@ function App() {
       <Courses />
       <Advantages />
       <Branches />
-      <Reviews />
+      <Results/>
       <ContactForm />
       <Footer/>
     </div>

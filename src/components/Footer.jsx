@@ -13,8 +13,8 @@ const Footer = () => {
         {/* Контакты */}
         <div>
           <h3 className="font-semibold mb-2">Контакты</h3>
-          <p>Телефон: +998 90 816 71 97</p>
-          <p>Email: info@fayztalim.uz</p>
+          <p>Телефон: +998 95 506 33 33</p>
+          <p>Telegram: @fayztalim_uchtepa</p>
           <p>Учтепинский район, Ташкент</p>
           <p>Алмазарский район (возле метро Беруний), Ташкент</p>
         </div>
@@ -35,7 +35,7 @@ const Footer = () => {
           </ul>
         </div>
       </div>
-
+      
       <div className="text-center mt-8 text-gray-400 text-sm">
         © 2026 Fayz Ta'lim. Все права защищены.
       </div>
