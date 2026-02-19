@@ -9,7 +9,7 @@ const Navbar = () => {
     { name: "Курсы", href: "#courses" },
     { name: "Преимущества", href: "#advantages" },
     { name: "Филиалы", href: "#branches" },
-    { name: "Отзывы", href: "#reviews" },
+    { name: "Результаты", href: "#results" },
     { name: "Заявка", href: "#contact" },
   ];
 
